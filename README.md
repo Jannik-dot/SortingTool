@@ -12,3 +12,5 @@ It sorts numbers via merge sort algorithm and is thus highly efficient.
 
 It is also possible to sort the elements by number of occurences (byCount).
 Default sorting type is natural.
+
+todo: GUI
